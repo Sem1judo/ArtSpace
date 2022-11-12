@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="masterpiece">the masterpiece</string>
+    <string name="title">Title</string>
+    <string name="fullName">Artwork artist</string>
+    <string name="year">2015</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+</resources>
